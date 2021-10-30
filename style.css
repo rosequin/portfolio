@@ -8,6 +8,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono:300,400,500,700');
 
+
 /*------------------------------------------------------------------
     IMPORT FILES
 -------------------------------------------------------------------*/
@@ -639,16 +640,6 @@ xclip
 	position: relative;
 	z-index: 2;
 }
-.right-box-pro::before {
-    content: "";
-    background: url(images/country-quilt-dark.png);
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    bottom: -20px;
-    right: -20px;
-    z-index: 0;
-}
 
 
 
@@ -658,7 +649,6 @@ xclip
 	margin-bottom: 30px;
 }
 .ser-icon{
-	width: 90px;
 	height: 90px;
 	text-align: center;
 	line-height: 90px;
@@ -2013,7 +2003,7 @@ select.mobile-device {
     box-sizing: border-box;
     width: 100%;
     text-align: left;
-    padding: 30px 0px;
+    padding: 0px 0px;
     overflow: hidden;
 }
 
