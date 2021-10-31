@@ -135,6 +135,7 @@ strong {
     font-weight: bolder
 }
 
+
 small {
     font-size: 80%
 }
@@ -454,7 +455,7 @@ hr {
 
 .img-fluid {
     max-width: 100%;
-    height: auto
+    height: auto;
 }
 
 .img-thumbnail {
@@ -9045,6 +9046,12 @@ a.text-dark:focus, a.text-dark:hover {
     .table-bordered td, .table-bordered th {
         border: 1px solid #dee2e6 !important
     }
+
+    .footer-social {
+        
+    }
+
+
 }
 
 /*# sourceMappingURL=bootstrap.min.css.map */
